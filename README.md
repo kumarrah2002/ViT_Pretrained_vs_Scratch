@@ -8,3 +8,5 @@
 </h1>
 
 <h4 align="center">Analyzing current vision transformer architectures on their ability to extract features from astronomical data (transfer learning).</h4>
+
+<h2 align="center">More information soon to come.</h2>
